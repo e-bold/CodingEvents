@@ -28,3 +28,4 @@ C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\CodingEvents\CodingEv
 C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\CodingEvents\CodingEvents\obj\Debug\net8.0\CodingEvents.pdb
 C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\CodingEvents\CodingEvents\obj\Debug\net8.0\CodingEvents.genruntimeconfig.cache
 C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\CodingEvents\CodingEvents\obj\Debug\net8.0\ref\CodingEvents.dll
+C:\Users\enhmu\OneDrive\Desktop\LaunchCode\Unit-two\ASPNET\CodingEvents\CodingEvents\obj\Debug\net8.0\CodingEvents.sourcelink.json
