@@ -6,6 +6,8 @@ public class Event
     public string? Name { get; set; }
     public string? Description { get; set; }
     public string? ContactEmail { get; set; }
+    public string Location { get; set; }
+    public int Attendees { get; set; }
     public int Id { get; }
     static private int nextId = 1;
 
@@ -16,10 +18,12 @@ public class Event
 
     }
 
-    public Event(string name, string description)
+    public Event(string name, string description, string location, int attendees)
     {
         Name = name;
         Description = description;
+        Location = location;
+        Attendees = attendees;
         Id =nextId;
         nextId++;
     }

@@ -16,4 +16,11 @@ public class AddEventViewModel
     [EmailAddress]
     public string? ContactEmail { get; set; }
 
+
+    [Required(ErrorMessage = "Location information is required.")]
+    public string? Location { get; set; }
+    
+    [Required(ErrorMessage = "Please enter number of attendees.")]
+    [Range(0, 1000)]
+    public int Attendees { get; set; }
 }
